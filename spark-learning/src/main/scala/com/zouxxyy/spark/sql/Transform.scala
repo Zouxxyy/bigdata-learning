@@ -6,7 +6,7 @@ import org.apache.spark.sql.{DataFrame, Dataset, Row, SparkSession}
 
 /**
  * RDD、DataFrame、DataSet 三者的相互转换
- * 记住RDD到DataFrame是加结构信息；再到DataSet是加类属性，也就是让RDD里存的是一个个对象
+ * 记住RDD到DataFrame是加结构信息(列名，类型)；再到DataSet是加类属性，也就是让RDD里存的是一个个对象
  */
 
 object Transform {
