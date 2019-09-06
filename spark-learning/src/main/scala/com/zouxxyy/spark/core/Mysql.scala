@@ -1,4 +1,4 @@
-package com.zouxxyy.spark.RDD
+package com.zouxxyy.spark.core
 
 import java.sql.{DriverManager, PreparedStatement}
 

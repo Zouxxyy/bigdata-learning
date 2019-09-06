@@ -1,4 +1,4 @@
-package com.zouxxyy.spark.RDD
+package com.zouxxyy.spark.core
 
 import java.util
 
@@ -6,7 +6,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.util.AccumulatorV2
 
 /**
-  * Accumulator和RDD并列，是spark三大数据结构之一，这里只是放到RDD包里
+  * Accumulator和RDD并列，是spark三大数据结构之一
   */
 
 object Accumulator {
