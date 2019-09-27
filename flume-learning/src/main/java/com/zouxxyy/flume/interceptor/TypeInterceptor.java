@@ -28,10 +28,10 @@ public class TypeInterceptor implements Interceptor {
 
         // 3. 自定义头信息
         if(body.contains("hello")) {
-            headers.put("type", "zouxxyy");
+            headers.put("topic", "first");
         }
         else {
-            headers.put("type", "flume");
+            headers.put("topic", "second");
         }
         return event;
     }
