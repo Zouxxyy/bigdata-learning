@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * 自定义offset
- * 这节很值得揣摩，通过它可以了解消费者的具体行为，消费者在Rebalance时得到自己要处理的分区以及offset
+ * 这节很值得揣摩，通过它可以了解消费者的具体行为，比如消费者在Rebalance时得到自己要处理的分区以及offset
  */
 
 public class MyOffsetConsumer {
@@ -41,7 +41,7 @@ public class MyOffsetConsumer {
             public void onPartitionsAssigned(Collection<TopicPartition> partitions) {
                 currentOffset.clear();
                 for (TopicPartition partition : partitions) {
-                    consumer.seek(partition, getOffset(partition));// 定位到最近提交的 offset 位置继续消费
+                    consumer.seek(partition, getOffset(partition));// 定位到最近提交的offset的位置，继续消费
                 }
             }
         });
