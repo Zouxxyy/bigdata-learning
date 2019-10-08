@@ -15,6 +15,7 @@ import java.io.IOException;
 
 /**
  * DML测试
+ * 感觉里面所有操作都是面向对象的
  */
 
 public class TestDML {
@@ -84,10 +85,27 @@ public class TestDML {
     }
 
 
+    /**
+     * 删除数据
+     */
+    @Test
+    public void deleteData() throws IOException {
 
+        Delete delete = new Delete(Bytes.toBytes("1009"));
 
+        // 不加其它，是删除RowKey，type=DeleteFamily
 
+        // 删除列族，type=DeleteFamily
+        // delete.addFamily(Bytes.toBytes("info2"));
 
+        // 删除列(所有版本)，type=DeleteColumn
+        // delete.addColumns(Bytes.toBytes("info2"), Bytes.toBytes("addr"));
+
+        // 删除列(最新的版本)，type=Delete，少用
+        // delete.addColumn(Bytes.toBytes("info2"), Bytes.toBytes("addr"));
+
+        table.delete(delete);
+    }
 
     @After
     public void after() throws IOException {
