@@ -63,10 +63,10 @@ public class FruitDriver implements Tool {
 }
 
 /*
-# 建表
+# 1 建表
 hbase(main):001:0> create 'fruit1', 'info'
-# 上传文件到HDFS
+# 2 上传文件到HDFS
 hdfs dfs -put /Users/zxy/IdeaProjects/bigdata-learning/hbase-learning/data/input/fruit.tsv /
-# 执行命令，注意这里是hadoop里的yarn
+# 3 执行命令，注意这里是hadoop里的yarn
 /usr/local/hadoop-2.7.7/bin/yarn jar /Users/zxy/IdeaProjects/bigdata-learning/hbase-learning/target/hbase-learning-1.0-SNAPSHOT.jar com.zouxxyy.hbase.mr1.FruitDriver /fruit.tsv fruit1
  */

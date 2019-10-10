@@ -77,7 +77,7 @@ public class TestDML {
             Cell[] cells = result.rawCells();
             for (Cell cell : cells) {
                 System.out.println("RowKey: " + Bytes.toString(CellUtil.cloneRow(cell)) +
-                        "列族: " + Bytes.toString(CellUtil.cloneFamily(cell)) +
+                        ", 列族: " + Bytes.toString(CellUtil.cloneFamily(cell)) +
                         ", 列名: " + Bytes.toString(CellUtil.cloneQualifier(cell)) +
                         ", 值: " + Bytes.toString(CellUtil.cloneValue(cell)));
             }

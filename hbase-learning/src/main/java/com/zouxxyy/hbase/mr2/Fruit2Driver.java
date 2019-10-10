@@ -15,8 +15,8 @@ public class Fruit2Driver implements Tool {
     private Configuration conf = null;
 
     public static void main(String[] args) throws Exception {
-        
-        // 导入hbase-site.xml文件后可直接运行，不需要打jar包后扔 yarn 运行
+
+        // 导入hbase-site.xml文件后可直接本地运行，不需要ar包后扔 yarn 运行
         Configuration configuration = HBaseConfiguration.create();
         int run = ToolRunner.run(configuration, new Fruit2Driver(), args);
 

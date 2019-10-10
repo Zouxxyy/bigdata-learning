@@ -11,7 +11,7 @@
 :-: | :-: | :-: | 
 **flume-learning** | flume基础学习（尚硅谷） | ★★★★★ | 
 **hadoop-learning** | hadoop基础学习（尚硅谷） | ★★★★★ | 
-**hbase-learning** | hbase基础学习（尚硅谷） |学习ing | 
+**hbase-learning** | hbase基础学习（尚硅谷） |★★★★★ | 
 **hive-learning** | hive基础学习（尚硅谷） | ★★★★☆ | 
 **kafka-learning** | kafka基础学习（尚硅谷） | ★★★★☆ | 
 **spark-learning** | spark基础学习（尚硅谷）| ★★★★★| 
