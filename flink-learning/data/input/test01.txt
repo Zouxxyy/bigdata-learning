@@ -1,0 +1,8 @@
+cnn gan
+lstm svm
+rnn
+kmeans boot
+rnn rnn
+cnn gan gan gan
+svm svm
+svm svm svm svm
