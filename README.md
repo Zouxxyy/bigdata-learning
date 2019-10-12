@@ -9,6 +9,7 @@
 
 模块名 | 简介 | 推荐指数 | 
 :-: | :-: | :-: | 
+**flink-learning** | flink基础学习（尚硅谷） | ★★★★★ | 
 **flume-learning** | flume基础学习（尚硅谷） | ★★★★★ | 
 **hadoop-learning** | hadoop基础学习（尚硅谷） | ★★★★★ | 
 **hbase-learning** | hbase基础学习（尚硅谷） |★★★★★ | 
@@ -24,3 +25,7 @@
 1. 进入[网页](http://kinolien.github.io/gitzip/)
 2. 输入该模块url，如https://github.com/Zouxxyy/bigdata-learning/tree/master/hadoop-learning
 3. Download
+
+## 展望
+
+快肝完了，最后补下 redis
