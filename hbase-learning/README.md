@@ -16,8 +16,8 @@
 **我的总结：**
 
 
-* [hbase-安装与配置](https://zouxxyy.github.io/2019/09/28/hbase-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/#more)
-* [hbase-基本原理](https://zouxxyy.github.io/2019/09/29/hbase-%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/#more)
+* [hbase-安装与配置](https://zouxxyy.github.io/2019/09/28/%E5%A4%A7%E6%95%B0%E6%8D%AE/hbase-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/)
+* [hbase-基本原理](https://zouxxyy.github.io/2019/09/29/%E5%A4%A7%E6%95%B0%E6%8D%AE/hbase-%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
 
 **心得体会：**
 

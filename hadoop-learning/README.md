@@ -13,9 +13,9 @@
 
 **我的总结：**
 
-- [MapReduce流程解析](https://zouxxyy.github.io/2019/08/30/hadoop-MapReduce%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/#more)
-- [HDFS流程解析](https://zouxxyy.github.io/2019/08/31/hadoop-HDFS%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/#more)
-- [Yarn流程解析](https://zouxxyy.github.io/2019/08/31/hadoop-Yarn%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/#more)
+- [MapReduce流程解析](https://zouxxyy.github.io/2019/08/30/%E5%A4%A7%E6%95%B0%E6%8D%AE/hadoop-MapReduce%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/)
+- [HDFS流程解析](https://zouxxyy.github.io/2019/08/31/%E5%A4%A7%E6%95%B0%E6%8D%AE/hadoop-HDFS%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/)
+- [Yarn流程解析](https://zouxxyy.github.io/2019/08/31/%E5%A4%A7%E6%95%B0%E6%8D%AE/hadoop-Yarn%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/)
 
 **心得体会：**
 
