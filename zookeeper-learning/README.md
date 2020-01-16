@@ -14,7 +14,7 @@
 **我的总结：**
 
 
-* [zookeeper-基本原理](https://zouxxyy.github.io/2019/09/24/%E5%A4%A7%E6%95%B0%E6%8D%AE/zookeeper-%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
+* [zookeeper-基本原理](https://zouxxyy.github.io/posts/2054705260/)
 
 **心得体会：**
 

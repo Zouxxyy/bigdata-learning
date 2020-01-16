@@ -18,9 +18,9 @@
 **我的总结：**
 
 
-* [hive-安装与配置](https://zouxxyy.github.io/2019/09/16/%E5%A4%A7%E6%95%B0%E6%8D%AE/hive-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/)
-* [hive-DDL](https://zouxxyy.github.io/2019/09/17/%E5%A4%A7%E6%95%B0%E6%8D%AE/hive-DDL/)
-* [hive-DML](https://zouxxyy.github.io/2019/09/19/%E5%A4%A7%E6%95%B0%E6%8D%AE/hive-DML/)
+* [hive-安装与配置](https://zouxxyy.github.io/posts/3435041295/)
+* [hive-DDL](https://zouxxyy.github.io/posts/975154933/)
+* [hive-DML](https://zouxxyy.github.io/posts/3957134780/)
 
 **心得体会：**
 
