@@ -26,7 +26,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>RELEASE</version>
+            <version>4.13.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
